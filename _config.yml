@@ -70,4 +70,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:designiot/designiot.github.io.git
-  branch: gh-pages
+  branch: master
